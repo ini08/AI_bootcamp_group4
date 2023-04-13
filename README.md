@@ -1,9 +1,9 @@
 # GROUP 4
 - Inioluwa Adedapo
-- Deborah oladeji
+- Deborah Oladeji
 - James Sotomi
 - Ayodeji Adesegun
-- Abisola
+- Abisola Lasisi
 
 DATA:
 Group 4.csv
