@@ -23,6 +23,7 @@ def get_prediction_proba(docx):
 
 hide_streamlit_style = """
             <style>
+	    #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             </style>
             """
