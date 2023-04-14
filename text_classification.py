@@ -92,7 +92,7 @@ def main():
 		st.write("Welcome to our spam classifier project! Our group has created a sophisticated machine learning model that can reliably recognise and categorize spam messages. With our spam classifier, you can say goodbye to pesky spam messages.")
 
 		st.write("Our group is made up of five highly skilled individuals, each with a unique set of skills and expertise:")
-		st.write("- **Ayodeji Adesegun**: He was in charge of preparing the data and creating the model.")
+		st.write("- **Ayodeji Adesegun**: He was in charge of preparing the data and creating the model. You can learn more about him from his [website](https://ayodejiades.vercel.app)")
 		st.write("- **Abisola Lasisi**: She was in charge of writing the technical material for this project.")
 		st.write("- **Inioluwa Adedapo**: In collaboration with Deborah Oladeji, she was in charge of training and deploying the model to the web using Streamlit.")
 		st.write("- **Deborah Oladeji**: Along with Inioluwa Adedapo, she was in charge of training and deploying the model to the web using Streamlit.")
